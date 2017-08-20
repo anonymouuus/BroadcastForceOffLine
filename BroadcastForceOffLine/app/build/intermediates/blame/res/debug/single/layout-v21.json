@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\0MSE1\\0GithubRepository\\BroadcastForceOffLine\\BroadcastForceOffLine\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\0MSE1\\0GithubRepository\\BroadcastForceOffLine\\BroadcastForceOffLine\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\0MSE1\\0GithubRepository\\BroadcastForceOffLine\\BroadcastForceOffLine\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\0MSE1\\0GithubRepository\\BroadcastForceOffLine\\BroadcastForceOffLine\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\0MSE1\\0GithubRepository\\BroadcastForceOffLine\\BroadcastForceOffLine\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\0MSE1\\0GithubRepository\\BroadcastForceOffLine\\BroadcastForceOffLine\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\0MSE1\\0GithubRepository\\BroadcastForceOffLine\\BroadcastForceOffLine\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\0MSE1\\0GithubRepository\\BroadcastForceOffLine\\BroadcastForceOffLine\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

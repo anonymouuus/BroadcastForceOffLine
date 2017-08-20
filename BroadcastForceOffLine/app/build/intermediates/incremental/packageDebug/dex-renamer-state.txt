@@ -1,0 +1,7 @@
+#Sat Aug 19 20:45:06 CST 2017
+base.0=D\:\\0MSE1\\0GithubRepository\\BroadcastForceOffLine\\BroadcastForceOffLine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8466b2ecc616846dae9b01c7b045c75e8b8b24cb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\0MSE1\\0GithubRepository\\BroadcastForceOffLine\\BroadcastForceOffLine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f5f344432dcc6868e744d2930709c83f3306f3ff\\classes.dex
+base.1=D\:\\0MSE1\\0GithubRepository\\BroadcastForceOffLine\\BroadcastForceOffLine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f5f344432dcc6868e744d2930709c83f3306f3ff
+file.0=D\:\\0MSE1\\0GithubRepository\\BroadcastForceOffLine\\BroadcastForceOffLine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8466b2ecc616846dae9b01c7b045c75e8b8b24cb\\classes.dex
